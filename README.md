@@ -79,14 +79,9 @@ Capsicum-Leaf-diseases-detection/
 ## 🔮 Future Improvements
 
 - Build a web application for image-based predictions.
-- Add real-time camera-based leaf classification.
-- Test the model on images collected under different lighting and field conditions.
 - Deploy the trained model for practical agricultural use.
 
 ## 👨‍💻 Author
 
 Developed as a deep learning project focused on agricultural image classification.
 
-## 📄 License
-
-A license has not yet been specified. Add an appropriate license before distributing or reusing the project.
