@@ -1,0 +1,8 @@
+# ignore virtual environment
+myenv/
+
+# ignore dataset
+dataset/
+
+# ignore os
+.DS_Store
